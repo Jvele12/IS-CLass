@@ -88,3 +88,4 @@ The `pwd` command is part of this cheat sheet.
 The `rm` command is part of this cheat sheet.
 
 This is a note for mkdir-command
+This is a note for mv-command
