@@ -38,3 +38,6 @@ the "git add" command is to stage changes
 
 ## git commit
 the "git commit" command is to save changes
+
+## git checkout
+the "git checkout" command is to switch between branches
