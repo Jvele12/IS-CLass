@@ -63,3 +63,6 @@ The `mv` command description goes here.
 The `pwd` command description goes here.
 ### rm
 The `rm` command description goes here.
+### mkdir
+The `mkdir` command is part of this cheat sheet.
+
