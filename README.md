@@ -61,3 +61,5 @@ The `mkdir` command description goes here.
 The `mv` command description goes here.
 ### pwd
 The `pwd` command description goes here.
+### rm
+The `rm` command description goes here.
