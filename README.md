@@ -55,4 +55,4 @@ the 'git commit' command is to save changes
 the 'git checkout' command is to switch between branches
 
 ### 15. git merge
-the "git merge" command is to merge branches
+the 'git merge' command is to merge branches
