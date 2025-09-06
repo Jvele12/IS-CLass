@@ -87,3 +87,4 @@ The `pwd` command is part of this cheat sheet.
 ### rm
 The `rm` command is part of this cheat sheet.
 
+This is a note for mkdir-command
