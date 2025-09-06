@@ -1,1 +1,1 @@
-
+print("Hello, IS-Class!")
