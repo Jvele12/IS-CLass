@@ -41,3 +41,6 @@ the "git commit" command is to save changes
 
 ## git checkout
 the "git checkout" command is to switch between branches
+
+## git merge
+the "git merge" command is to merge branches
