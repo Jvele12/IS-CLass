@@ -66,3 +66,6 @@ The `rm` command description goes here.
 ### mkdir
 The `mkdir` command is part of this cheat sheet.
 
+### mv
+The `mv` command is part of this cheat sheet.
+
