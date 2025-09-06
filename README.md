@@ -81,3 +81,6 @@ The `mkdir` command is part of this cheat sheet.
 ### mv
 The `mv` command is part of this cheat sheet.
 
+### pwd
+The `pwd` command is part of this cheat sheet.
+
