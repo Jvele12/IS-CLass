@@ -11,3 +11,6 @@ The "pwd" command is mainly used to show current directory
 
 ## mkdir
 The "mkdir" command is for creating a new folder in current directory
+
+## rm
+te "rm" command is used for removing files
