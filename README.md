@@ -1,4 +1,3 @@
-
 # Linux and Git Cheat Sheet Commands
 
 This Repository contains a list of 15 essential Linux and Git commands.
