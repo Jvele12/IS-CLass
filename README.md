@@ -59,3 +59,5 @@ The 'git merge' command is to merge branches
 The `mkdir` command description goes here.
 ### mv
 The `mv` command description goes here.
+### pwd
+The `pwd` command description goes here.
