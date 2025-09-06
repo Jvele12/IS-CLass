@@ -84,3 +84,6 @@ The `mv` command is part of this cheat sheet.
 ### pwd
 The `pwd` command is part of this cheat sheet.
 
+### rm
+The `rm` command is part of this cheat sheet.
+
