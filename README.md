@@ -26,3 +26,6 @@ the "cat" command is used to view file contents
 
 ## grep
 the "grep" command is for searching text in files
+
+## echo 
+the "echo" command is for print text
