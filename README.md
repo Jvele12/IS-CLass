@@ -29,3 +29,6 @@ the "grep" command is for searching text in files
 
 ## echo 
 the "echo" command is for print text
+
+## git status
+the "git status" command to show git status
