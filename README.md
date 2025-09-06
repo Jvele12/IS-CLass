@@ -55,39 +55,3 @@ The 'git checkout' command is to switch between branches
 
 ### 15. git merge
 The 'git merge' command is to merge branches
-### mkdir
-The `mkdir` command description goes here.
-### mv
-The `mv` command description goes here.
-### pwd
-The `pwd` command description goes here.
-### rm
-The `rm` command description goes here.
-### mkdir
-The `mkdir` command is part of this cheat sheet.
-
-### mv
-The `mv` command is part of this cheat sheet.
-
-### pwd
-The `pwd` command is part of this cheat sheet.
-
-### rm
-The `rm` command is part of this cheat sheet.
-
-### mkdir
-The `mkdir` command is part of this cheat sheet.
-
-### mv
-The `mv` command is part of this cheat sheet.
-
-### pwd
-The `pwd` command is part of this cheat sheet.
-
-### rm
-The `rm` command is part of this cheat sheet.
-
-This is a note for mkdir-command
-This is a note for mv-command
-This is a note for pwd-command
-This is a note for rm-command
