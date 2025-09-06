@@ -20,3 +20,6 @@ the "cp" command is to copy files
 
 # mv
 the "mv" command is used to move files around
+
+## cat
+the "cat" command is used to view file contents
