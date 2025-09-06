@@ -57,3 +57,5 @@ The 'git checkout' command is to switch between branches
 The 'git merge' command is to merge branches
 ### mkdir
 The `mkdir` command description goes here.
+### mv
+The `mv` command description goes here.
