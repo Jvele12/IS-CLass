@@ -17,7 +17,7 @@ The 'cd' command mainly used to change directory
 The 'pwd' command is mainly used to show current directory
 
 ### 4. mkdir
-The 'mkdir' command is for creating a new folder in current directory
+The 'mkdir' command is for creating a new folder in current directory.
 
 ### 5. rm
 The 'rm' command is used for removing files
