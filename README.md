@@ -32,3 +32,6 @@ the "echo" command is for print text
 
 ## git status
 the "git status" command to show git status
+
+## git add
+the "git add" command is to stage changes
