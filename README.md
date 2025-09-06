@@ -8,3 +8,6 @@ The "cd" command mainly used to change directory
 
 ## pwd
 The "pwd" command is mainly used to show current directory
+
+## mkdir
+The "mkdir" command is for creating a new folder in current directory
